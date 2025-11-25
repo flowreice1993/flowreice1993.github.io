@@ -4,67 +4,31 @@
   
     
     <entry>
-      <title>第一篇文章</title>
+      <title>慢慢记录</title>
       <link href="/posts/5c2fafc7.html"/>
       <url>/posts/5c2fafc7.html</url>
       
-        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+        <content type="html"><![CDATA[<p>简单的记录下最近打游戏的吐槽。<br>以及想把朋友们写到小说里的构思。</p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/posts/5c2fafc7.html"/>
-      <url>/posts/5c2fafc7.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>第一篇文章</title>
-      <link href="/posts/5c2fafc7.html"/>
-      <url>/posts/5c2fafc7.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
-      
-      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
       
     </entry>
     
     
   
   
-    
-    
-    <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -90,9 +54,31 @@
     
     
     <entry>
+      <title>你好，人</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>嗨～<strong>人</strong>。能看到这里的你，大概和熊一样，偶尔会对着屏幕发呆吧？不论什么时候来，都愿你抽卡时金光不歪，操作时手指听话，每天都能找到一颗糖豆大小的快乐。(^▽^)</p><p>熊是社恐本恐啦，好友列表像北极的苔原，稀稀拉拉的。日常除了趴着画画，就是窝在角落打游戏。以前总担心被人说“孤僻”，现在嘛……（挠挠头）熊学会了和软乎乎的肚皮和解——少纠结，多啃鱼，睡前翻两页漫画，每年还会偷偷在冰面上划拉<del>几个小目标～</del> </p><p>Steam头像常年亮着，要是灰了……那一定是被小八他们拽去爬山拍照了。举着相机摇摇晃晃的，但风景掉进镜头里的样子，让熊的心像刚烤好的面包。</p><p>比起热闹的联机，熊更爱把脸埋进单机游戏的雪堆里。特别是会讲故事的AVG、文字冒险——日乙就算剧本像融化的冰淇淋，熊也要舔一口尝尝！（理直气壮叉腰）</p><p>FPS也玩哦，虽然枪法像在扔雪球……幸好老朋友会说“熊的描边枪法能温暖整个北极圈”。（笑）。</p><p>主要窝在Steam和XGP的冰屋里，Switch是床头专属暖炉。如果凑巧玩同一款游戏，可以朝熊打招呼！不擅长说漂亮话，但愿意并排坐在长椅上分享存档点。</p><p>对熊来说，游戏是更暖的小世界。经常打着打着，抬头发现极昼变成了极夜……那种忘记时间的感觉，大概就是幸福的形状吧。</p><p>愿我们都能在游戏里，找到属于自己的那份光。<br>祝你今天愉快，我们游戏里见～☆</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
