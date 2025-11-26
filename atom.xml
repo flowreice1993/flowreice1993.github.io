@@ -3,11 +3,11 @@
   <title>脆脆花椰鱼</title>
   
   <subtitle>能看到这里的你，大概和我一样，偶尔会对着屏幕发呆吧</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://fafa.flomio.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://fafa.flomio.cn/"/>
   <updated>2025-10-28T09:00:00.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://fafa.flomio.cn/</id>
   
   <author>
     <name>脆脆花椰鱼</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>慢慢记录</title>
-    <link href="http://example.com/posts/5c2fafc7.html"/>
-    <id>http://example.com/posts/5c2fafc7.html</id>
+    <link href="https://fafa.flomio.cn/posts/5c2fafc7.html"/>
+    <id>https://fafa.flomio.cn/posts/5c2fafc7.html</id>
     <published>2025-10-28T09:00:00.000Z</published>
     <updated>2025-10-28T09:00:00.000Z</updated>
     
@@ -34,10 +34,10 @@
     
     
     
-    <category term="杂谈" scheme="http://example.com/categories/%E6%9D%82%E8%B0%88/"/>
+    <category term="杂谈" scheme="https://fafa.flomio.cn/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    <category term="杂谈" scheme="https://fafa.flomio.cn/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
