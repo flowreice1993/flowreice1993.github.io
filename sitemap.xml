@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fafa.flomio.cn/posts/ea3d45b1.html</loc>
+    
+    <lastmod>2025-11-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fafa.flomio.cn/categories/index.html</loc>
     
     <lastmod>2025-11-26</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://fafa.flomio.cn/</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,7 +66,14 @@
   
   <url>
     <loc>https://fafa.flomio.cn/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fafa.flomio.cn/tags/hexo/</loc>
+    <lastmod>2025-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -66,7 +82,7 @@
   
   <url>
     <loc>https://fafa.flomio.cn/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2025-11-26</lastmod>
+    <lastmod>2025-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

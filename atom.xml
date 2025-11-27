@@ -6,7 +6,7 @@
   <link href="https://fafa.flomio.cn/atom.xml" rel="self"/>
   
   <link href="https://fafa.flomio.cn/"/>
-  <updated>2025-11-26T11:01:32.911Z</updated>
+  <updated>2025-11-27T05:30:42.544Z</updated>
   <id>https://fafa.flomio.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>🌱Hexo建站碎碎念</title>
+    <link href="https://fafa.flomio.cn/posts/ea3d45b1.html"/>
+    <id>https://fafa.flomio.cn/posts/ea3d45b1.html</id>
+    <published>2025-11-27T05:22:31.000Z</published>
+    <updated>2025-11-27T05:30:42.544Z</updated>
+    
+    <content type="html"><![CDATA[<p>曾经很<strong>纠结</strong>要不要写Hexo建站的过程——一方面是想给自己复习一遍，另一方面又觉得网络上已经有很多类似的教程，自己再做一遍是不是在重复劳动。</p><blockquote><p>我是一个编程<strong>0基础</strong>的人，理解能力和动手能力都比较弱。<br>刚开始是男朋友帮我搭建，但当我自己想改变背景、发表文章时，遇到了好多问题……于是决定<strong>自己重新跟着教程操作一遍</strong>。<br>途中遇到了很多奇怪的 bug，<mark>现在依旧没有解决</mark>……</p></blockquote><p>不过，<strong>网站跑通了，就无所谓了</strong>。✨</p><hr><p>B站上其实已经有很多大佬做过非常详细的Hexo教程，并且视频讲解得都很好。<br>我自己常看的几个：</p><ul><li><a href="https://space.bilibili.com/372204786?spm_id_from=333.337.search-card.all.click">安知鱼哇</a></li><li><a href="https://zsyyblog.com/dd40c9f4.html">竹山一叶</a></li><li><a href="https://space.bilibili.com/220757832?spm_id_from=333.1391.0.0">Fomalhaut</a></li></ul><blockquote><p>虽然都是 22~23 年的视频，但依旧适合现在的 Hexo 搭建，<strong>原理上都是一样的</strong>。</p></blockquote><p>像 <code>butterfly</code> 这类主题，实际操作可能会和视频里有出入，但多利用<strong>搜索</strong>和<strong>排除法</strong>，大部分问题还是能解决的。</p><hr><p>现在网上也有很多开源的 Hexo 美化版本，但如果对前端不熟悉，直接下载下来可能完全不知道怎么用。<br>所以我觉得，<strong>自己亲手搭一遍还是有必要的</strong>——当然，如果你本身就很熟悉这些，就另当别论啦。</p><hr><p>我依旧在纠结后续要不要写 Hexo 的建站过程，毕竟网络上已经写得很完善了，自己再重复做一遍，感觉像是在做<strong>无用功</strong>。<br>从一时冲动<strong>买域名、买服务器</strong>，到折腾完整个搭建过程，最后却不知道要在上面写什么……<br>纯粹只是想记录下各种琐碎的事。</p><p>然而，见识了许多分享<strong>硬核知识</strong>的站点后，我不免有些惭愧。<br>自己似乎没有什么值得书写的技术或见解，只是一个普通人。</p><blockquote><p>这么一想，我费劲搭建这个网站，难道就是为了给它<strong>一片荒芜</strong>吗？</p></blockquote><p>或许，这个博客不必那么严肃，就让它安放我从零到一的建站回忆，以及之后所有的<strong>日乙吐槽</strong>、<strong>生活碎碎念</strong>——<br>这些微不足道却让我开心的记录，也挺好的。 💬</p><hr><p>✨ 记录，本就是一件温柔的事。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;曾经很&lt;strong&gt;纠结&lt;/strong&gt;要不要写Hexo建站的过程——一方面是想给自己复习一遍，另一方面又觉得网络上已经有很多类似的教程，自己再做一遍是不是在重复劳动。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我是一个编程&lt;strong&gt;0基础&lt;/strong&gt;的人，理</summary>
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://fafa.flomio.cn/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://fafa.flomio.cn/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="hexo" scheme="https://fafa.flomio.cn/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>终于搭建好了我的bug博客</title>
